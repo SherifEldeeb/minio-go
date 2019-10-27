@@ -8,7 +8,7 @@ This document assumes that you have a working [Go development environment](https
 
 ## Download from Github
 ```sh
-GO111MODULE=on go get github.com/minio/minio-go/v6
+GO111MODULE=on go get github.com/SherifEldeeb/minio-go/v6
 ```
 
 ## Initialize MinIO Client
@@ -26,7 +26,7 @@ MinIO client requires the following four parameters specified to connect to an A
 package main
 
 import (
-	"github.com/minio/minio-go/v6"
+	"github.com/SherifEldeeb/minio-go/v6"
 	"log"
 )
 
@@ -56,7 +56,7 @@ We will use the MinIO server running at [https://play.min.io](https://play.min.i
 package main
 
 import (
-	"github.com/minio/minio-go/v6"
+	"github.com/SherifEldeeb/minio-go/v6"
 	"log"
 )
 

@@ -42,8 +42,8 @@ import (
 	humanize "github.com/dustin/go-humanize"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/minio/minio-go/v6"
-	"github.com/minio/minio-go/v6/pkg/encrypt"
+	"github.com/SherifEldeeb/minio-go/v6"
+	"github.com/SherifEldeeb/minio-go/v6/pkg/encrypt"
 )
 
 const letterBytes = "abcdefghijklmnopqrstuvwxyz01234569"
