@@ -25,7 +25,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/SherifEldeeb/minio-go/v6/pkg/s3utils"
+	"github.com/SherifEldeeb/minio-go/pkg/s3utils"
 )
 
 // ListBuckets list all buckets owned by this authenticated user.

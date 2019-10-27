@@ -1,4 +1,4 @@
-module github.com/SherifEldeeb/minio-go/v6
+module github.com/SherifEldeeb/minio-go
 
 go 1.12
 

@@ -24,7 +24,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/SherifEldeeb/minio-go/v6/pkg/s3utils"
+	"github.com/SherifEldeeb/minio-go/pkg/s3utils"
 )
 
 // BucketExists verify if bucket exists and you have permission to access it.

@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/SherifEldeeb/minio-go/v6/pkg/set"
+	"github.com/SherifEldeeb/minio-go/pkg/set"
 )
 
 // TestUnmarshalBucketPolicy tests unmarsheling various examples

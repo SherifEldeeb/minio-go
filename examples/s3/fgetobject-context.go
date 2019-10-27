@@ -25,7 +25,7 @@ import (
 
 	"context"
 
-	"github.com/SherifEldeeb/minio-go/v6"
+	"github.com/SherifEldeeb/minio-go"
 )
 
 func main() {

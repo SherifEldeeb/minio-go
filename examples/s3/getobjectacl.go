@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"log"
 
-	minio "github.com/SherifEldeeb/minio-go/v6"
+	minio "github.com/SherifEldeeb/minio-go"
 )
 
 func main() {
