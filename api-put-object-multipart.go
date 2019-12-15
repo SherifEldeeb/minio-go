@@ -33,8 +33,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/SherifEldeeb/minio-go/pkg/encrypt"
-	"github.com/SherifEldeeb/minio-go/pkg/s3utils"
+	"github.com/SherifEldeeb/minio-go/v6/pkg/encrypt"
+	"github.com/SherifEldeeb/minio-go/v6/pkg/s3utils"
 )
 
 func (c Client) putObjectMultipart(ctx context.Context, bucketName, objectName string, reader io.Reader, size int64,

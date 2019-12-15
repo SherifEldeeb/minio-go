@@ -27,7 +27,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/SherifEldeeb/minio-go/pkg/s3utils"
+	"github.com/SherifEldeeb/minio-go/v6/pkg/s3utils"
 )
 
 // GetObject - returns an seekable, readable object.

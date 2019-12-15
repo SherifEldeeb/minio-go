@@ -33,7 +33,7 @@ import (
 
 	"github.com/minio/sha256-simd"
 
-	"github.com/SherifEldeeb/minio-go/pkg/s3utils"
+	"github.com/SherifEldeeb/minio-go/v6/pkg/s3utils"
 )
 
 // xmlDecoder provide decoded value in xml.
